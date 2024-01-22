@@ -1,5 +1,18 @@
 let punterPuzzleSpec = {
 	number: 10,
+	solveBy: "28 Jan",
+	dispenserSpec: [undefined, "ps","rsr", "pqtq"],
+	//dispenserSpec: [undefined, "pqrpq", "pqrp"],
+	matrixSpec: [1, 2, 3, 4, 5, 6, 7, 8, 9],
+	colourSpec: ["Blue", "Black", "Green", "Orange", "Pink"],
+	hintSpec: ["Orange", 2],
+	solutionDispenseSequence: [2, 2, 1, 2, 3, 1, 3, 3, 3],
+	solutionColourSequence: ["Green", "Orange", "Orange", "Green", "Black", "Blue", "Pink", "Black", "Blue"]
+};
+
+/*
+let punterPuzzleSpec = {
+	number: 10,
 	solveBy: "10 Dec",
 	dispenserSpec: [undefined, "ps","rsr", "pqtq"],
 	//dispenserSpec: [undefined, "pqrpq", "pqrp"],
@@ -9,7 +22,7 @@ let punterPuzzleSpec = {
 	solutionDispenseSequence: [2, 2, 1, 2, 3, 1, 3, 3, 3],
 	solutionColourSequence: ["green", "orange", "orange", "green", "black", "blue", "pink", "black", "blue"]
 };
-
+*/
 /* demo spec
 let punterPuzzleSpec = {
 	dispenserSpec: [undefined, "p", "rpppq", "qr", "q"],
