@@ -22,7 +22,7 @@ let punterPuzzleSpec = {
 	solutionColourSequence: ["Blue", "Blue", "Pink", "Black", "Orange", "Orange", "Black", "Black", "Green"]
 };
 */
-
+/*
 let punterPuzzleSpec = {
 	number: "Cb1",
 	solveBy: "19 Feb",
@@ -33,19 +33,19 @@ let punterPuzzleSpec = {
 	solutionDispenseSequence: [1, 3, 1, 1, 1, 2, 1, 1, 2],
 	solutionColourSequence: ["Blue", "Blue", "Green", "Black", "Green", "Green", "Black", "Green", "Green"]
 };
+*/
 
-/*
 let punterPuzzleSpec = {
 	number: "Gf1",
 	solveBy: "26 Feb",
 	dispenserSpec: [undefined, "pqqqqrs","tq"],
 	matrixSpec: [-1, -4, 7, 6, 9, -2, -3, 8, 5],
 	colourSpec: ["Black", "Green", "Blue", "Pink", "Orange"],
-	hintSpec: ["Orange", 2],
+	hintSpec: ["Green", 2],
 	solutionDispenseSequence: [1, 2, 1, 1, 1, 2, 1, 1, 1],
 	solutionColourSequence: ["Pink", "Green", "Green", "Orange", "Black", "Green", "Blue", "Green", "Green"]
 };
-*/
+
 /*
 let punterPuzzleSpec = {
 	number: "D2",
