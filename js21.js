@@ -95,7 +95,7 @@ class Puzzle {
 		this.matrixSpec = puzzleSpec.matrixSpec;
 		
 		this.tileColours = [];
-		const tileCodes = ["p", "q", "r", "s", "t"];
+		const tileCodes = ["p", "q", "r", "s", "t", "u"];
 		for (let i = 0; i < tileCodes.length; i++) this.tileColours[tileCodes[i]] = puzzleSpec.colourSpec[i];
 		
 		this.hintColour = puzzleSpec.hintSpec[0];

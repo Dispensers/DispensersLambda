@@ -1,4 +1,73 @@
 let puzzleSpecs = [
+/*
+	{
+		number: "Bo1",
+		publishedOn: "dd Mmm 24",
+		dispenserSpec: [undefined, "sqp","pt", "pr", "uq"],
+		matrixSpec: [9, 8, 7, -2, -1, 6, -3, -4, 5],
+		colourSpec: ["Blue", "Green", "Orange", "bbGGbbGG", "OOOOGGGG", "BBBGBGGG"],
+		hintSpec: ["Blue", 2],
+		solutionDispenseSequence: [1, 3, 2, 1, 4, 1, 4, 2, 3],
+		solutionColourSequence: ["Blue", "Blue", "BBBGBGGG", "Orange", "Blue", "bbGGbbGG", "OOOOGGGG", "Green", "Green"]
+	},
+
+	{
+		number: "Z1",
+		publishedOn: "dd Mmm 24",
+		dispenserSpec: [undefined, "ppqpq","qpqp"],
+		matrixSpec: [-1, -2, -3, 8, -4, 9, 5, 6, 7],
+		colourSpec: ["Black", "Green"],
+		hintSpec: ["Green", 2],
+		solutionDispenseSequence: [1, 1, 2, 1, 2, 1, 2, 2, 1],
+		solutionColourSequence: ["Green", "Black", "Black", "Green", "Green", "Black", "Green", "Black", "Black"]
+	},
+
+	{
+		number: "Gf2",
+		publishedOn: "dd Mmm 24",
+		dispenserSpec: [undefined, "q", "sps", "qpprr"],
+		matrixSpec: [-1, -4, 7, 6, 9, -2, -3, 8, 5],
+		colourSpec: ["Black", "Green", "Blue","Orange"],
+		hintSpec: ["Green", 2],
+		solutionDispenseSequence: [3, 2, 2, 3, 3, 1, 2, 3, 3],
+		solutionColourSequence: ["Blue", "Blue", "Orange", "Green", "Green", "Orange", "Black", "Black", "Black"]
+	},
+	
+	{
+		number: "F1",
+		publishedOn: "dd Mmm 24",
+		dispenserSpec: [undefined, "prp","q", "rqpq", "p"],
+		matrixSpec: [-4, -3, 5, 6, -2, 7, 8, -1, 9],
+		colourSpec: ["Blue", "Black", "Orange"],
+		hintSpec: ["Orange", 4],
+		solutionDispenseSequence: [1, 3, 2, 3, 3, 4, 1, 1, 3],
+		solutionColourSequence: ["Blue", "Black", "Black", "Blue", "Black", "Orange", "Blue", "Blue", "Orange"]
+	},
+
+	{
+		number: "Ca2",
+		publishedOn: "dd Mmm 24",
+		dispenserSpec: [undefined, "pr", "ppqr","ppq"],
+		matrixSpec: [-2, -4, 6, 9, -1, 8, 7, 5, -3],
+		colourSpec: ["Black", "Orange", "Blue"],
+		hintSpec: ["Blue", 2],
+		solutionDispenseSequence: [3, 3, 2, 3, 2, 2, 2, 1, 1],
+		solutionColourSequence: ["Black", "Black", "Black", "Black", "Orange", "Blue", "Black", "Orange", "Blue"]
+	},
+*/	
+	{
+		number: "D3",
+		publishedOn: "4 Jun 24",
+		dispenserSpec: [undefined, "ptq","p", "qrpps"],
+		matrixSpec: [-1, -3, 6, -2, 5, 8, -4, 7, 9],
+		colourSpec: ["Orange", "Blue", "Green", "Black", "Pink"],
+		hintSpec: ["Orange", 8],
+		solutionDispenseSequence: [3, 3, 1, 3, 3, 3, 2, 1, 1],
+		solutionColourSequence: ["Black", "Blue", "Blue", "Orange", "Green", "Pink", "Orange", "Orange", "Orange"]
+	},
+	
+// -----------------------------------------------------------------------------------------------------------------------	
+	
 	{
 		number: "Ax1",
 		publishedOn: "19 Mar 24",
