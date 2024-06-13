@@ -43,22 +43,21 @@ let puzzleSpecs = [
 		solutionDispenseSequence: [1, 3, 2, 3, 3, 4, 1, 1, 3],
 		solutionColourSequence: ["Blue", "Black", "Black", "Blue", "Black", "Orange", "Blue", "Blue", "Orange"]
 	},
-
+*/
 	{
 		number: "Ca2",
-		publishedOn: "dd Mmm 24",
+		publishedOn: "13 Jun 24",
 		dispenserSpec: [undefined, "pr", "ppqr","ppq"],
 		matrixSpec: [-2, -4, 6, 9, -1, 8, 7, 5, -3],
 		colourSpec: ["Black", "Orange", "Blue"],
-		hintSpec: ["Blue", 2],
+		hintSpec: ["Black", 7],
 		solutionDispenseSequence: [3, 3, 2, 3, 2, 2, 2, 1, 1],
 		solutionColourSequence: ["Black", "Black", "Black", "Black", "Orange", "Blue", "Black", "Orange", "Blue"]
 	},
-*/	
 	{
 		number: "D3",
 		publishedOn: "4 Jun 24",
-		dispenserSpec: [undefined, "ptq","p", "qrpps"],
+		dispenserSpec: [undefined, "ptq", "p", "qrpps"],
 		matrixSpec: [-1, -3, 6, -2, 5, 8, -4, 7, 9],
 		colourSpec: ["Orange", "Blue", "Green", "Black", "Pink"],
 		hintSpec: ["Orange", 8],
