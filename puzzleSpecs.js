@@ -32,18 +32,17 @@ let puzzleSpecs = [
 		solutionDispenseSequence: [3, 2, 2, 3, 3, 1, 2, 3, 3],
 		solutionColourSequence: ["Blue", "Blue", "Orange", "Green", "Green", "Orange", "Black", "Black", "Black"]
 	},
-	
+*/	
 	{
 		number: "F1",
-		publishedOn: "dd Mmm 24",
+		publishedOn: "25 Jun 24",
 		dispenserSpec: [undefined, "prp","q", "rqpq", "p"],
 		matrixSpec: [-4, -3, 5, 6, -2, 7, 8, -1, 9],
 		colourSpec: ["Blue", "Black", "Orange"],
-		hintSpec: ["Orange", 4],
+		hintSpec: ["Blue", 4],
 		solutionDispenseSequence: [1, 3, 2, 3, 3, 4, 1, 1, 3],
 		solutionColourSequence: ["Blue", "Black", "Black", "Blue", "Black", "Orange", "Blue", "Blue", "Orange"]
 	},
-*/
 	{
 		number: "Ca2",
 		publishedOn: "13 Jun 24",
