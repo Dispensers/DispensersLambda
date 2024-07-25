@@ -1,8 +1,7 @@
 let puzzleSpecs = [
-/*
 	{
 		number: "Bo1",
-		publishedOn: "dd Mmm 24",
+		publishedOn: "25 Jul 24",
 		dispenserSpec: [undefined, "sqp","pt", "pr", "uq"],
 		matrixSpec: [9, 8, 7, -2, -1, 6, -3, -4, 5],
 		colourSpec: ["Blue", "Green", "Orange", "bbGGbbGG", "OOOOGGGG", "BBBGBGGG"],
@@ -10,7 +9,6 @@ let puzzleSpecs = [
 		solutionDispenseSequence: [1, 3, 2, 1, 4, 1, 4, 2, 3],
 		solutionColourSequence: ["Blue", "Blue", "BBBGBGGG", "Orange", "Blue", "bbGGbbGG", "OOOOGGGG", "Green", "Green"]
 	},
-*/
 	{
 		number: "Z1",
 		publishedOn: "16 Jul 24",
